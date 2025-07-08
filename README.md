@@ -20,7 +20,7 @@ This project covers the complete pipeline of object detection using YOLO (You On
   
   **Input Image Processing**
   <br>
-  <img src="D:\Git\obj-detect\source\Screenshot 2025-07-08 112819.png" alt="Elephant Detection Result" width="600">
+  <img src="https://github.com/imthadh-ahamed/obj-detect/blob/main/source/Screenshot%202025-07-08%20112819.png" alt="Elephant Detection Result" width="600">
   <br>
   <em>YOLOv5 successfully detected an elephant with 93.0% confidence, showing precise bounding box localization</em>
   
@@ -28,7 +28,7 @@ This project covers the complete pipeline of object detection using YOLO (You On
   
   **Web Interface Overview**
   <br>
-  <img src="D:\Git\obj-detect\source\3ee18c20-d354-4707-ba95-b44ea274a150.jpg" alt="Web Interface" width="800">
+  <img src="https://github.com/imthadh-ahamed/obj-detect/blob/main/source/3ee18c20-d354-4707-ba95-b44ea274a150.jpg" alt="Web Interface" width="800">
   <br>
   <em>Modern, responsive web interface with real-time detection results and interactive controls</em>
 </div>
